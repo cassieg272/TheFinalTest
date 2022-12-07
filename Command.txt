@@ -1,0 +1,11 @@
+git init
+git add MyFile.txt
+git add Info
+git config user.name "Cassandra_Gould_INFO"
+git add Command.txt
+git status
+
+By using git status I can see the status of what has happened within my git project.
+I can see that I am on the branch Master and I have not made any commits yet.
+I can see that I have changes that have been added but still need to be committed (ex. new files).
+I can also see that I have files that have been modified but have not yet been staged for commit (ex. modified: Command.txt)
